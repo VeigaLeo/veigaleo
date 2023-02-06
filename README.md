@@ -1,7 +1,7 @@
 # Howdy! 👋
 
 - 🔭 Currently working with **NodeJS**, **AWS**, **MongoDB**
-- 🌱 Currently learning **Golang**, and **Software Architecture**
+- 🌱 Currently learning **Golang**, and **Software Architecture patterns**
 - 📚 Currently reading
   - **[Serverless Architectures on AWS](https://www.goodreads.com/book/show/29970427-serverless-architectures-on-aws?ref=nav_sb_ss_1_31)**
   - **[Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/book/show/44144493-fundamentals-of-software-architecture?ref=nav_sb_ss_1_37)**
